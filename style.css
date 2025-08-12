@@ -21,10 +21,10 @@ header h1 {
 
 /* Estilo para a seção de história */
 .historia {
-    background-color: #ffffff;
+    background-color: #ee0808;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(5, 5, 5, 0.1);
 }
 
 .historia h2 {
