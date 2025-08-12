@@ -1,0 +1,39 @@
+/* Estilos básicos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    color: #006600; /* verde do São Paulo */
+    margin: 0;
+}
+
+/* Estilo para a seção de história */
+.historia {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.historia h2 {
+    color: #006600;
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+
+.historia p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
